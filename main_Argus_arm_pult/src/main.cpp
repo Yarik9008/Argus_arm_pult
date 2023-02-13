@@ -16,6 +16,20 @@ void setup() {
   pinMode(PIN_BUT7, INPUT);
   pinMode(PIN_BUT8, INPUT);
   pinMode(PIN_BUT9, INPUT);
+
+  pinMode(MODE, INPUT);
+  pinMode(LED, OUTPUT);
+
+  pinMode(PIN_OUT0, OUTPUT);
+  pinMode(PIN_OUT1, OUTPUT);
+  pinMode(PIN_OUT2, OUTPUT);
+  pinMode(PIN_OUT3, OUTPUT);
+  pinMode(PIN_OUT4, OUTPUT);
+  pinMode(PIN_OUT5, OUTPUT);
+  pinMode(PIN_OUT6, OUTPUT);
+  pinMode(PIN_OUT7, OUTPUT);
+  pinMode(PIN_OUT8, OUTPUT);
+  pinMode(PIN_OUT9, OUTPUT);
   
 }
 
